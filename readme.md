@@ -22,7 +22,7 @@ MIT License
    - Library for a certain framework/language, (e.g. Javascript library). 
    - Link to Documentation or Forum of a certain tool
 
-They're great but there are more suitable place for those tools. 
+They're great but there are more suitable places for those tools. 
 
 ## Contribute
 Want to add new stuff?   
